@@ -61,7 +61,7 @@ div{
 
 footer p{
     text-align: right ;
-    padding-top: unset !important ;
-    padding-bottom: 10px !important ;
-    padding-right: 10px !important ;
+    padding-top: 0px ;
+    padding-bottom: 10px  ;
+    padding-right: 10px ;
 }
